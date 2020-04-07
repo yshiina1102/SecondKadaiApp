@@ -13,6 +13,7 @@
 		D84FC477243C922700910187 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D84FC475243C922700910187 /* Main.storyboard */; };
 		D84FC479243C922B00910187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D84FC478243C922B00910187 /* Assets.xcassets */; };
 		D84FC47C243C922B00910187 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D84FC47A243C922B00910187 /* LaunchScreen.storyboard */; };
+		D84FC484243C961400910187 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84FC483243C961400910187 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D84FC478243C922B00910187 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D84FC47B243C922B00910187 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D84FC47D243C922B00910187 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D84FC483243C961400910187 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D84FC46F243C922700910187 /* AppDelegate.swift */,
 				D84FC471243C922700910187 /* SceneDelegate.swift */,
 				D84FC473243C922700910187 /* ViewController.swift */,
+				D84FC483243C961400910187 /* ResultViewController.swift */,
 				D84FC475243C922700910187 /* Main.storyboard */,
 				D84FC478243C922B00910187 /* Assets.xcassets */,
 				D84FC47A243C922B00910187 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D84FC474243C922700910187 /* ViewController.swift in Sources */,
+				D84FC484243C961400910187 /* ResultViewController.swift in Sources */,
 				D84FC470243C922700910187 /* AppDelegate.swift in Sources */,
 				D84FC472243C922700910187 /* SceneDelegate.swift in Sources */,
 			);
